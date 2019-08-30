@@ -9,7 +9,7 @@ end
 
 class Person
 def job=(person_job)
-  @this_persons_job =(person_job)
+  @name =(person_job)
 end 
 def job
     @job 
