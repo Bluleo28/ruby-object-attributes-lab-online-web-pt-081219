@@ -2,8 +2,8 @@ class Person
 def name=(persons_name)
   @this_persons_name =persons_name
 end 
-def name=(persons_name) 
-    @name=(persons_name)
+def name=(person_name) 
+    @name=(person_name)
   end 
 end 
 
