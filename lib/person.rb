@@ -1,6 +1,6 @@
 class Person
-def name=(persons_name)
-  @this_persons_name =persons_name
+def name=(person_name)
+  @this_persons_name =person_name
 end 
 def name=(person_name) 
     @name=(person_name)
@@ -8,8 +8,8 @@ def name=(person_name)
 end 
 
 class Person
-def job=(persons_job)
-  @this_persons_job =(persons_job)
+def job=(person_job)
+  @this_persons_job =(person_job)
 end 
 def job
     @job 
