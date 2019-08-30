@@ -8,7 +8,7 @@ end
 
 def name 
   @this_dogs_name 
-  name = ""
+  name = "Snoopy"
   end
 end 
   
