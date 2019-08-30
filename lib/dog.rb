@@ -5,8 +5,8 @@ end
 
 def name 
   @name 
-  name= "Snoopy"
-  @name = "Snoopy"
+  name= (dog_name)
+  @name = (dog_name)
   end
 end 
   
