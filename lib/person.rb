@@ -7,7 +7,7 @@ def name =(persons_name)
   end 
 end 
 
-class Job
+class Person
 def job=(persons_job)
   @this_persons_job=persons_job
 end 
