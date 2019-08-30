@@ -7,8 +7,8 @@ def name=(dog_breed)
     @name = dog_breed
   end 
   
-def breed 
-  @this_dogs_breed
+def name 
+    @name
   end 
 end 
   
