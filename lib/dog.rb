@@ -4,9 +4,9 @@ def name=(dog_name)
 end
 
 def name 
-  @this_dogs_name 
+  @name 
   name = "Snoopy"
-  @this_dogs_name = "Snoopy"
+ @name = "Snoopy"
   end
 end 
   
