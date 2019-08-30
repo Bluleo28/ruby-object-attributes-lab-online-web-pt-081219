@@ -6,7 +6,7 @@ end
 def name 
   @name 
   name= "Snoopy"
- @name = "Snoopy"
+  @name = "Snoopy"
   end
 end 
   
