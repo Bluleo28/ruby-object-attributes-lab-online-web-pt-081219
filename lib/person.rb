@@ -11,7 +11,7 @@ class Person
 def job=(persons_job)
   @this_persons_job =(persons_job)
 end 
-def job ; (persons_job) 
+def job=(persons_job) 
     @job = (persons_job)
   end
 end
