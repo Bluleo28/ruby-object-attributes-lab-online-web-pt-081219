@@ -2,7 +2,7 @@ class Person
 def name=(person_name)
   @this_persons_name =persons_name
 end 
-def name ;(persons_name) 
+def name ; (persons_name) 
     @name = (persons_name)
   end 
 end 
@@ -13,5 +13,6 @@ def job=(persons_job)
 end 
 def job =(persons_job) 
     @job = (persons_job)
+    end 
   end 
 end 
