@@ -3,7 +3,7 @@ def name=(dog_name)
   @name =(dog_name)
 end
 
-def name=(dog_breed)
+def name
     @name =(dog_breed)
   end 
   
