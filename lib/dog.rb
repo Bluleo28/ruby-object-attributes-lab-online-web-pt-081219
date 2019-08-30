@@ -6,7 +6,7 @@ end
 def name 
   @this_dogs_name 
   name = "Snoopy"
-  @this_dogs_name
+  @this_dogs_name = "Snoopy"
   end
 end 
   
